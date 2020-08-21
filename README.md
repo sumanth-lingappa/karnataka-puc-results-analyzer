@@ -11,7 +11,7 @@ There can be many analysis made from the data collected -
 - percentage of student passed/failed
 - subject wise pass/fail ratio
 - Impact of COVID-19 on students
-- - In 2020, due to COVID-19, `English` exam was conducted after almost 4 months of lockdown. 
+  - In 2020, due to COVID-19, `English` exam was conducted after almost 4 months of lockdown. 
 - etc
 
 
