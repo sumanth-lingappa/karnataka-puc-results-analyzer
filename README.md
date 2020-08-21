@@ -4,7 +4,7 @@ Analyzing Karnataka (India) PUC Results of 2020
 > This mini project is for educational purpose only.
 
 # Inspiration
-I took the project's inspiration from my friend [Ravi](github.com/ravisutrave)'s [parse-sslc-results](github.com/ravisutrave/parse-sslc-results) repository
+I took the project's inspiration from my friend [Ravi](https://www.github.com/ravisutrave)'s [parse-sslc-results](https://www.github.com/ravisutrave/parse-sslc-results) repository
 
 # Analysis
 There can be many analysis made from the data collected - 
